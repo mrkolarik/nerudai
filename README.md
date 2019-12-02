@@ -9,7 +9,7 @@ I bet you sometimes saw a computer generated poetry – usually all it does is c
 
 ## About
 
-Czech poems generating system based on LSTM and Char-rnn. Development of NLP system in localized language was a challenging task. Whole system including printer, user interface design and a thin client based on raspberry pi was a part of Prototyp festival in Brno in 2018 focused on Art&Technology fusion.
+Czech poems generating system based on LSTM and Char-rnn. Development of NLP system in localized language was a challenging task. Whole system including printer, user interface design and a thin client based on raspberry pi was a part of Prototyp festival in Brno in 2018 focused on Art&Technology fusion and at the Kosice Art&Tech days in November 2019.
 
 
 <p align="center">
