@@ -1,0 +1,54 @@
+Velká písmena
+A, Á, Ä, B, C, Č, D, Ď, DZ, DŽ, E, É, F, G, H, CH, I, Í, J, K, L, Ĺ, Ľ, M, N, Ň, O, Ó, Ô, P, Q, R, Ŕ, S, Š, T, Ť, U, Ú, V, W, X, Y, Ý, Z, Ž
+Malá písmena
+a, á, ä, b, c, č, d, ď, dz, dž, e, é, f, g, h, ch, i, í, j, k, l, ĺ, ľ, m, n, ň, o, ó, ô, p, q, r, ŕ, s, š, t, ť, u, ú, v, w, x, y, ý, z, ž
+
+Velká písmena
+Velká písmena (majuskule, verzálky) se považují historicky za základní variantu, ale v běžném textu se používají podle pravopisu pro ozvláštnění, zejména v celých nadpisech, jedno písmeno na začátku vět a na začátku názvů a jmen:
+A, Á, B, C, Č, D, Ď, E, É, Ě, F, G, H, Ch, I, Í, J, K, L, M, N, Ň, O, Ó, P, Q, R, Ř, S, Š, T, Ť, U, Ú, Ů, V, W, X, Y, Ý, Z, Ž.
+Malá písmena
+Malá písmena (minuskule) jsou v praxi častější, základní variantou písmen v textu.
+
+a, á, b, c, č, d, ď, e, é, ě, f, g, h, ch, i, í, j, k, l, m, n, ň, o, ó, p, q, r, ř, s, š, t, ť, u, ú, ů, v, w, x, y, ý, z, ž.
+
+Číslice:	 	 	 
+nula	0	Alt+48	Digit Zero
+jedna	1	Alt+49	Digit One
+dva	2	Alt+50	Digit Two
+tři	3	Alt+51	Digit Three
+čtyži	4	Alt+52	Digit Four
+pět	5	Alt+53	Digit Five
+šest	6	Alt+54	Digit Six
+sedm	7	Alt+55	Digit Seven
+osm	8	Alt+56	Digit Eight
+devět	9	Alt+57	Digit Nine
+
+apostrof   ’   '
+čárka   ,
+dvojtečka   :
+lomítko   /
+otazník   ?
+pomlčka   -
+spojovník   -
+středník   ;
+tečka   .
+uvozovky   „ “   ‚ ‘ 
+vykřičník   !
+výpustka   …   ...
+závorky   ( )
+zpětné lomítko   \
+
+– [ ] = * " < ´ ¨ @ _ ♥
+
+§ « » { } & Υ
+
+А
+ě
+ř
+Ě
+Ř
+ů
+”
+Ů
+$
+
