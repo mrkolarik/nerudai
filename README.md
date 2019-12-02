@@ -29,33 +29,33 @@ Data for this project were scraped from web database of free verse poems in Czec
 
 ## Poem example
 
-<p align="justify">
+<p align="center">
 JEDEN MATEK
-<br/><br/><br/>
+<br/><br/>
 
 dotekem nočních královen<br/>
 než se od přítěží šklebí<br/>
 potkáš vše co se stalo<br/>
 že je to jenom málo.<br/>
-<br/><br/>
+<br/>
 kostel s trny pozbývá<br/>
 za co má pocit že je pryč<br/>
 bez nároku nemohu<br/>
-<br/><br/>
+<br/>
 díky vám, dřív jsem ti oplněně<br/>
 ty šetři od teď zmatek dobro<br/>
 jsme tady a na místě čistá<br/>
 křičíme pouště svíčky nad hlavou<br/>
-<br/><br/>
+<br/>
 jsi mi nádherným zklamáním<br/>
 ale pak když jsem tě opustila<br/>
 teď připadám si jak utíkavá<br/>
 když se ještě můžeš bát<br/>
-<br/><br/>
+<br/>
 přísahám, že není tu panenka<br/>
 tvoje slova o němž jsou to flašky<br/>
 co bude s tou první větou<br/>
-tak se tebe zabijme.<br/>
+tak se tebe zabijme.
 </p>
 
 ## Citation and references
