@@ -29,7 +29,7 @@ Data for this project were scraped from web database of free verse poems in Czec
 
 ## Poem example
 
-<span style="text-align:center">
+<div align="center">
 JEDEN MATEK
 <br/><br/>
 dotekem nočních královen<br/>
@@ -55,7 +55,7 @@ přísahám, že není tu panenka<br/>
 tvoje slova o němž jsou to flašky<br/>
 co bude s tou první větou<br/>
 tak se tebe zabijme.
-</span>
+</div>
 
 ## Citation and references
 
